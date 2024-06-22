@@ -1,5 +1,7 @@
 # Test task for the Junior Frontend Developer position in Revamp IT
 
+REVIEWER TELEGRAM: @svintsoffyan
+
 ## Specs
 
 **Project**: ToDo Manager
